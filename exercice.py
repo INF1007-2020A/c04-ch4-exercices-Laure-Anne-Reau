@@ -4,7 +4,6 @@
 
 def is_even_len(string: str) -> bool:
     return (len(string)%2 == 0)
-    return 
 
 
 
