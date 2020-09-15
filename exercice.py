@@ -11,7 +11,7 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    if len(string)>2 :
+    if len(string)<3 :
         pass
     else:
         pass
