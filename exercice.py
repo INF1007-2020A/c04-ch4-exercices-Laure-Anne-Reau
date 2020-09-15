@@ -4,9 +4,9 @@
 
 def is_even_len(string: str) -> bool:
     if (len(string)%2 == 0):
-        return ("la chaine de caractère est paire")
+        return ("la chaîne de caractère est paire")
     else:
-        return ("la chaîne de caract")
+        return ("la chaîne de caractère est impaire")
 
 
 
