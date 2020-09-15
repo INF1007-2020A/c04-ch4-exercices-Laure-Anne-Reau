@@ -6,7 +6,7 @@ def is_even_len(string: str) -> bool:
     if (len(string)%2 == 0):
         return ("la chaine de caractère est paire")
     else:
-        resturb
+        resturn
 
 
 
