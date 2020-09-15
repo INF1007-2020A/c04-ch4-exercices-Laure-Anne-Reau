@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     if (len(string)%2 == 0):
-        return ("le nombre de cartè chaîne de caractères est pair")
+        return ("le nombre de cartères dans la chaîne")
     else:
         return ("la chaîne de caractères est impair")
 
