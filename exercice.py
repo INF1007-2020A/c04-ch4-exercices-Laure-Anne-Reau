@@ -33,7 +33,11 @@ def get_number_of_words(sentence: str, word: str) -> int:
     #nombre = sentence.count(word)
     #return nombre
     split_sentence = sentence.split()
-    
+        i = 0
+    for c in string :
+        if c == char :
+            i += 1
+    return (i)
 
 def main() -> None:
     chaine = "Bonjour!"
