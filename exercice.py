@@ -35,8 +35,6 @@ def get_number_of_words(sentence: str, word: str) -> int:
     split_sentence = sentence.split()
         i = 0
     for c in split_sentence :
-        
-    for c in split_sentence :
         if c == word :
             i += 1
     return (i)
