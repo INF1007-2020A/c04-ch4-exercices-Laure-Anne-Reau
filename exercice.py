@@ -39,6 +39,7 @@ def get_number_of_words(sentence: str, word: str) -> int:
             i += 1
     return (i)
 
+
 def main() -> None:
     chaine = "Bonjour!"
     if is_even_len(chaine):
